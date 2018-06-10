@@ -3,6 +3,13 @@
 
 # Log file
 *.log
+.DS_Store
+
+# target files
+target/*
+
+# idea files
+.idea/*
 
 # BlueJ files
 *.ctxt
